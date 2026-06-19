@@ -66,7 +66,7 @@ I'm a developer focused on building practical web applications, internal systems
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guzzguzzguzz96&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guzzguzzguzz96&show_icons=true&theme=transparent" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guzzguzzguzz96&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
